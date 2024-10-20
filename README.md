@@ -7,5 +7,8 @@ https://mi.eng.cam.ac.uk/~cipolla/publications/contributionToEditedBook/2008-SFM
 https://cmsc426.github.io/sfm/
 https://www.youtube.com/playlist?list=PLgnQpQtFTOGTPQhKBOGgjTgX-mzpsOGOX
 
+# Gaussian Splatting
+https://github.com/graphdeco-inria/gaussian-splatting
+
 # Optimizatioin
 https://www.youtube.com/watch?v=7m8f0hP8Fzo
